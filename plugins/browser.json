@@ -1,0 +1,46 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "org.myapp.caberapp"
+    }
+  }
+}
